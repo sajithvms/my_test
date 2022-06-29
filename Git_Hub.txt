@@ -1,0 +1,27 @@
+git config --global user.name " Sajith.vms"
+git config --global user.email "sajith.vms@gmail.com"
+
+git init
+
+git add "file name"
+
+git status 
+
+git commit -m "msg- first name added"
+
+git log --all
+
+-------------------------------------------------------
+
+git remote add " Remote name -" hUB1"" " REPOSITORY URL"
+
+
+git remote -" know the remote"
+
+
+git push hub1 master
+
+
+git pull
+
+--
